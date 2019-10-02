@@ -1,0 +1,1 @@
+#include "\z\beags\addons\main\script_component.hpp"

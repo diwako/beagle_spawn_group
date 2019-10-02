@@ -1,0 +1,10 @@
+{
+  "name": "Beagles Zen spawn thingy",
+  "prefix": "beags",
+  "author": "diwako",
+  "files": [
+    "mod.cpp"
+  ],
+  "sigversion": 3,
+  "reuse_private_key": false
+}
